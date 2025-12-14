@@ -44,4 +44,4 @@
 
 
 
-⭐️ From [Karishma Kumai](https://github.com/karishma9142)
+⭐️ From [Karishma Kumari](https://github.com/karishma9142)
