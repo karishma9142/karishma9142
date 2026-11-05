@@ -1,13 +1,18 @@
+<br>
 <h1 align="center">Karishma Kumari</h1>
+
+
 
 <p align="center">
   <b>Full-Stack Developer</b> · React · Node.js · Docker · AI/LLM Tooling
 </p>
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/karishma9142?style=flat-square&color=2b2b2b&labelColor=555555&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/Bhopal-India-2b2b2b?style=flat-square&labelColor=555555&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2b2b2b?style=flat-square&labelColor=555555" alt="Open to work" />
+  <a href="https://porfolio-sage-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karishma-kumari-4778b7336/"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:karishma914212@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,6 +24,14 @@
 - Hands-on with microservices, Docker, GitHub Actions CI/CD and AI/LLM tooling (Whisper, Llama, LLM-as-judge)
 - 1000+ DSA problems solved
 - Looking for **full-time roles, internships, or collaborations** in Web Development and AI
+
+---
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karishma9142&hide_border=true&background=f6f8fa&stroke=d0d7de&ring=216e39&fire=216e39&currStreakNum=216e39&sideNums=57606a&currStreakLabel=216e39&sideLabels=6e7781&dates=6e7781" alt="GitHub streak" />
+</p>
 
 ---
 
@@ -113,6 +126,12 @@ so they are commented out. Remove the comment markers to try them.
   <a href="https://porfolio-sage-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/karishma-kumari-4778b7336/"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:karishma914212@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/karishma9142?style=flat-square&color=2b2b2b&labelColor=555555&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Bhopal-India-2b2b2b?style=flat-square&labelColor=555555&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2b2b2b?style=flat-square&labelColor=555555" alt="Open to work" />
 </p>
 
 <p align="center"><sub>Made by <a href="https://github.com/karishma9142">Karishma Kumari</a></sub></p>
